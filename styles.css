@@ -2,5 +2,9 @@ h1{
 	color: blue;
 }
 h2{
+<<<<<<< master
 	color: red;
+=======
+	color: green;
+>>>>>>> 3d9b18b change 2nd header color to green
 }
